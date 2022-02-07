@@ -1,0 +1,10 @@
+C:\Users\GhousSarwar\source\repos\DeploymentToolForServices\DeploymentToolForServices\bin\Debug\DeploymentToolForServices.exe.config
+C:\Users\GhousSarwar\source\repos\DeploymentToolForServices\DeploymentToolForServices\bin\Debug\DeploymentToolForServices.exe
+C:\Users\GhousSarwar\source\repos\DeploymentToolForServices\DeploymentToolForServices\bin\Debug\DeploymentToolForServices.pdb
+C:\Users\GhousSarwar\source\repos\DeploymentToolForServices\DeploymentToolForServices\obj\Debug\DeploymentToolForServices.Form1.resources
+C:\Users\GhousSarwar\source\repos\DeploymentToolForServices\DeploymentToolForServices\obj\Debug\DeploymentToolForServices.Properties.Resources.resources
+C:\Users\GhousSarwar\source\repos\DeploymentToolForServices\DeploymentToolForServices\obj\Debug\DeploymentToolForServices.csproj.GenerateResource.cache
+C:\Users\GhousSarwar\source\repos\DeploymentToolForServices\DeploymentToolForServices\obj\Debug\DeploymentToolForServices.csproj.CoreCompileInputs.cache
+C:\Users\GhousSarwar\source\repos\DeploymentToolForServices\DeploymentToolForServices\obj\Debug\DeploymentToolForServices.exe
+C:\Users\GhousSarwar\source\repos\DeploymentToolForServices\DeploymentToolForServices\obj\Debug\DeploymentToolForServices.pdb
+C:\Users\GhousSarwar\source\repos\DeploymentToolForServices\DeploymentToolForServices\obj\Debug\DeploymentToolForServices.csproj.AssemblyReference.cache
